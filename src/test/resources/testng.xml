@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Hire Tester">
+    <test name="Regression tests">
+        <classes>
+            <class name="TestRunner"/>
+<!--            <class name="tests.SearchTest"/>-->
+        </classes>
+
+    </test>
+</suite>
